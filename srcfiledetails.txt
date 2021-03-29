@@ -1,0 +1,6 @@
+1.diving deeper compoennets
+2.http axios
+3.React Router
+4.lazy load new 16.6>
+5.forms -its nit complted
+6.REdux
